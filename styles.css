@@ -1,0 +1,50 @@
+ .period{
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  color: blue;
+  padding: 10px,20px,30px;
+  background-color: #ff99ff;
+}
+.ptable{
+  background-color: purple;
+  color: white;
+  text-align: center;
+}
+body{
+background-color: #33ccff
+}
+img{
+  padding-left: 30px;
+  padding-right: 40px;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  border-radius: 50%;
+}
+button{
+  background: #ff0080;
+  font-family: 'Hind', sans-serif;
+  border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+}
+#list{
+list-style: square inside url("sqpurple.gif");
+background: #483D8B;
+padding: 20px;
+margin: 5px;
+margin-left: 5px;
+color : white;
+font-size : 15px;
+
+}
+
+.chemHere, .temp{
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+}
